@@ -668,7 +668,7 @@ class ggplot:
             filename = os.path.join(path, filename)
 
         # Preserve the users object
-        self = copy(self)
+        self = deepcopy(self)
 
         # theme
         self.theme = self.theme or theme_get()
