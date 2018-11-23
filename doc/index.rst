@@ -7,14 +7,14 @@
 A Grammar of Graphics for Python
 ================================
 
-plotnine is an implementation of a *grammar of graphics* in Python,
-it is based on ggplot2_. The grammar allows users to compose plots
+plotnine is an implementation of a *grammar of graphics* in Python.
+It is based on ggplot2_. The grammar allows users to compose plots
 by explicitly mapping data to the visual objects that make up the
 plot.
 
-Plotting with a grammar is powerful, it makes custom (and otherwise
-complex) plots are easy to think about and then create, while the
-simple plots remain simple.
+Plotting with a grammar is powerful; it makes custom, 
+complex plots easy to conceive and create, while keeping
+simple plots simple.
 
 Example
 -------
